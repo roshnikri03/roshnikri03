@@ -1,10 +1,15 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
-<h1 align="center">Hi 👋, I'm Kartikeya Singh</h1>
-<h3 align="center">A passionate Flutter developer from India</h3>
-
-<div class="con" style="border-radius: 50px">
-  <img src=" https://private-user-images.githubusercontent.com/74038190/256977180-54fb7eef-b1e8-41dc-be97-57e4180b3b24.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTc0MDU1NDcsIm5iZiI6MTcxNzQwNTI0NywicGF0aCI6Ii83NDAzODE5MC8yNTY5NzcxODAtNTRmYjdlZWYtYjFlOC00MWRjLWJlOTctNTdlNDE4MGIzYjI0LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA2MDMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNjAzVDA5MDA0N1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTJkOTlhMTQ0NGQyMzk3ODIxMjQ3ZmMwYWQ1OTEwZGIwMmExOTk3OTU4MGRlMDc0ZWVjMjQ5YTljODJjMThhMDkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.1RE4MDxH0V8asw7nBkK3mknK68r7qK4X3nrkT7BqV1I" alt="Coding" align="right" width="400">
+<div style="text-align: center;">
+  <img src="https://private-user-images.githubusercontent.com/74038190/243078834-72903324-cf57-4e90-80a6-ed3c9734e0ed.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTc0MDY3MzYsIm5iZiI6MTcxNzQwNjQzNiwicGF0aCI6Ii83NDAzODE5MC8yNDMwNzg4MzQtNzI5MDMzMjQtY2Y1Ny00ZTkwLTgwYTYtZWQzYzk3MzRlMGVkLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA2MDMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNjAzVDA5MjAzNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTkwZDU1NTAxM2IxYmMzYjNlMTU3ZTRhNjM2ODJkMzY0ZTVlNmMxNDJkNGYwOWNiYjRjMmI1ZjA2YTFmNjk3OWMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.EUkAyNcE7uj-8jwqhppaSaT-t111rRNzeaF0Xw0wpVc" alt="MasterHead" width="1000" height="400">
 </div>
+
+
+
+<h1 align="center">Hi 👋, I'm Roshni Kumari</h1>
+<h3 align="center">A passionate Web Developer from India</h3>
+<div class="con" style="border-radius: 50px">
+  <img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" alt="Coding" align="right" width="400">
+</div>
+
 
 
 <p align="left"> <a href="[https://twitter.com/@kartike67351289](https://images.app.goo.gl/GASXvioxR4WTV38d8)" target="blank"><img src="https://img.shields.io/twitter/follow/@kartike67351289?logo=twitter&style=for-the-badge" alt="@kartike67351289" /></a> </p>
