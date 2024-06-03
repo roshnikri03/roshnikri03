@@ -22,7 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a  href="https://www.linkedin.com/in/roshni-kumari-885383224/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ kartikeya-singh1211" height="30" width="40" /></a>
-<a href="https:// https://www.instagram.com/roshniigupta_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kartikeya_singh360" height="30" width="40" /></a>
+<a href="https://www.instagram.com/roshniigupta_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kartikeya_singh360" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/singh_kartik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="singh_kartik" height="30" width="40" /></a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
