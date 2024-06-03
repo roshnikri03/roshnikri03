@@ -1,6 +1,6 @@
  ![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
 <h1 align="center">Hi 👋, I'm Roshni Kumari</h1>
-<h3 align="center">A passionate Web Developer from India</h3>
+<h3 align="center">A Passionate Web Developer from India</h3>
 <div class="con" style="border-radius: 50px">
   <img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" alt="Coding" align="right" width="400">
 </div>
