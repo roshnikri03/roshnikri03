@@ -1,26 +1,23 @@
-<div style="text-align: center;">
-  <img src="https://private-user-images.githubusercontent.com/74038190/243078834-72903324-cf57-4e90-80a6-ed3c9734e0ed.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTc0MDY3MzYsIm5iZiI6MTcxNzQwNjQzNiwicGF0aCI6Ii83NDAzODE5MC8yNDMwNzg4MzQtNzI5MDMzMjQtY2Y1Ny00ZTkwLTgwYTYtZWQzYzk3MzRlMGVkLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA2MDMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNjAzVDA5MjAzNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTkwZDU1NTAxM2IxYmMzYjNlMTU3ZTRhNjM2ODJkMzY0ZTVlNmMxNDJkNGYwOWNiYjRjMmI1ZjA2YTFmNjk3OWMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.EUkAyNcE7uj-8jwqhppaSaT-t111rRNzeaF0Xw0wpVc" alt="MasterHead" width="1000" height="400">
-</div>
-
-
-
+ ![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
 <h1 align="center">Hi 👋, I'm Roshni Kumari</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
 <div class="con" style="border-radius: 50px">
   <img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" alt="Coding" align="right" width="400">
 </div>
+<p align="left">
+  <a href="https://www.linkedin.com/in/roshni-kumari-885383224/" target="blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Roshni Kumari LinkedIn" />
+  </a>
+</p>
 
 
+- 🔭 I’m currently working on **Backend**
 
-<p align="left"> <a href="[https://twitter.com/@kartike67351289](https://images.app.goo.gl/GASXvioxR4WTV38d8)" target="blank"><img src="https://img.shields.io/twitter/follow/@kartike67351289?logo=twitter&style=for-the-badge" alt="@kartike67351289" /></a> </p>
+- 🌱 I’m currently learning **MONGO DB**
 
-- 🔭 I’m currently working on **Chat App**
+- 💬 Ask me about **Web Development , MONGO DB , NODE JS , MYSQL**
 
-- 🌱 I’m currently learning **node JS**
-
-- 💬 Ask me about **Android , IOS , Flutter , Dart , **
-
-- 📫 How to reach me **singhkartikeya200@gmail.com**
+- 📫 How to reach me **roshnikumari90403@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
