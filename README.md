@@ -11,11 +11,11 @@
 </p>
 
 
-- 🔭 I’m currently working on **Backend**
+- 🔭 I’m currently working on **IOS Development**
 
-- 🌱 I’m currently learning **MONGO DB**
+- 🌱 I’m currently learning **Core Data**
 
-- 💬 Ask me about **Web Development , MONGO DB , NODE JS , MYSQL**
+- 💬 Ask me about **IOS Development , Swift UI , UI KIT**
 
 - 📫 How to reach me **roshnikumari90403@gmail.com**
 
